@@ -1,2 +1,22 @@
 body {
+  background-color: white;
+  width: 520px;
+  height: 320px;
+}
+.squarelight {
+  background-color: rgb(170, 97, 97);
+  width: 12.5%;
+  height: 12.5%;
+  float: left;
+}
+
+.squarelight:hover {
+  background-color: coral;
+}
+
+.squaredark {
+  background-color: rgb(58, 37, 37);
+  width: 12.5%;
+  height: 12.5%;
+  float: left;
 }
